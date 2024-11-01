@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Sandakalum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-I’m a Software Engineering Undergraduate who is interested in front-end development. Currently, I am working mainly on MERN stack projects. Also, I am working as a freelance graphic designer.
+I'm a final-year Software Engineering undergraduate and currently working as a Software Engineer. My focus lies in front-end development, where I enjoy crafting modern, user-friendly applications, primarily with the MERN stack. Additionally, I work as a freelance graphic designer and WordPress developer, combining creativity and technical skills to deliver engaging digital experiences.
 
 Want to know more about me? 
 
