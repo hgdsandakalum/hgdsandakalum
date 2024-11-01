@@ -12,6 +12,7 @@ Want to know more about me?
     <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
   </p>
 
+
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ffffff)
@@ -19,6 +20,7 @@ Want to know more about me?
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=ffffff)
@@ -37,10 +39,10 @@ Want to know more about me?
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/hgdsandakalum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&show_icons=true&theme=dark&count_private=true" height="220px" />
 </a>
 <a href="https://github.com/hgdsandakalum">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&count_private=true&hide=stars&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github"  alt="Dananjaya's github stats" height="220px" />
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
